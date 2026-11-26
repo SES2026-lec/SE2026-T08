@@ -6,3 +6,5 @@ def home():
     print("Alha")
     print("X!")
     return "Hello World! I'm using Flask."
+
+# a-2追記
