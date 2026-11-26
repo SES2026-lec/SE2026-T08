@@ -4,4 +4,5 @@ app = Flask(__name__)
 def home():
     print("Hello!")
     print("Alha")
+    print("X!")
     return "Hello World! I'm using Flask."
