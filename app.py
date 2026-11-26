@@ -8,6 +8,7 @@ def home():
     print("お茶")
     print("牛乳")
     print("コーヒー")
+    print("ほうじ茶")
     return "Hello World! I'm using Flask."
 
 # a-2追記
