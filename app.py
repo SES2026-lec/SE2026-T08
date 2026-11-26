@@ -11,4 +11,4 @@ def home():
     print("ほうじ茶")
     return "Hello World! I'm using Flask."
 
-# a-2追記
+# 課題5追記
